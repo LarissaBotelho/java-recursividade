@@ -1,0 +1,88 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio8",
+      "request": "launch",
+      "mainClass": "app.exercicio8",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio11",
+      "request": "launch",
+      "mainClass": "app.exercicio11",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio10",
+      "request": "launch",
+      "mainClass": "app.exercicio10",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio9",
+      "request": "launch",
+      "mainClass": "app.exercicio9",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio7",
+      "request": "launch",
+      "mainClass": "app.exercicio7",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio6",
+      "request": "launch",
+      "mainClass": "app.exercicio6",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio5",
+      "request": "launch",
+      "mainClass": "app.exercicio5",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio4",
+      "request": "launch",
+      "mainClass": "app.exercicio4",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio3teste",
+      "request": "launch",
+      "mainClass": "app.exercicio3teste",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio3",
+      "request": "launch",
+      "mainClass": "app.exercicio3",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio2",
+      "request": "launch",
+      "mainClass": "app.exercicio2",
+      "projectName": "recursividade"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - exercicio1",
+      "request": "launch",
+      "mainClass": "app.exercicio1",
+      "projectName": "recursividade"
+    }
+  ]
+}
